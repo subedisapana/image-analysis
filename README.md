@@ -14,5 +14,8 @@ Additionally, collect accurate and representative measurement the feature of tha
 05. Extracting Measuring Features - From resulting Image Segmentations
 
 
-## Requirements:
+## Requirements: Options for image analysis software
+1. ImageJ
+2. OpenCV
+3. MIPAR
 
